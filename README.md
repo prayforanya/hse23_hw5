@@ -1,6 +1,6 @@
 # hse23_hw5
   
-[Ссылка на Google Colab для первой части](https://colab.research.google.com/drive/1z6CV_MombkBE7I1q3H6WMxAI7AAlkE-h?usp=sharing)
+[Ссылка на Google Colab](https://colab.research.google.com/drive/1z6CV_MombkBE7I1q3H6WMxAI7AAlkE-h?usp=sharing)
 
 # Нормализация
 
