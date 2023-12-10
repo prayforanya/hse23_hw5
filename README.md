@@ -14,6 +14,7 @@ RPM (Reads per million) - число чтений для генов умножа
 ![image](https://github.com/prayforanya/hse23_hw5/blob/main/images/experiment.png)
 ![image](https://github.com/prayforanya/hse23_hw5/blob/main/images/my.png)
 
+RPM оказался не так плох и результаты получились очень похожи на те, что в статье.
 # Визуализация данных по экспрессии на основе UMAP и PCA
 ![image](https://github.com/prayforanya/hse23_hw5/blob/main/images/pca.png)
 ![image](https://github.com/prayforanya/hse23_hw5/blob/main/images/umap.png)
